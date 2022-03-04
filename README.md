@@ -1,4 +1,5 @@
 # itmd361_Lab6
+Harrison Loh
 ## Objective:
 Turn the provided HTML and CSS files into separate top and side navigation bars. 
 ## Process:
